@@ -1,10 +1,10 @@
-# parseApp
 
-### ParseApp ###
+### ParseApp
 git clone https://github.com/Astras67/parseApp.git
+
 npm install
 
-### Parse Initialize Key  ### 
+### Parse Initialize Key 
 You must create a Parse Account get your Parse API key
 and edit theParse Initialize Key within main.js
 
